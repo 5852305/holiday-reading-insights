@@ -1,0 +1,6 @@
+{
+  "name": "假期读书感想集 - 亲子悦读成长册",
+  "description": "精美可打印的假期读书感想集，包含个性化封面、目录、11篇深度读书感悟与封底页，支持排版定制、照片上传与A4高清打印导出。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
